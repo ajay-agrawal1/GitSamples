@@ -1,2 +1,7 @@
+
 Added file2 for story2
 Added for branch B-CR7 for checking.
+=======
+Added file2 for story2.
+Added File for branch B-CR7
+
